@@ -1,0 +1,39 @@
+html{
+background-image: url(logo.png);
+
+}
+
+
+
+iframe.embed-responsive-item{
+	margin-top: 80px;
+
+width: 500px;
+height: 300px;
+
+
+}
+
+html,body{
+  display: grid;
+  height: 100%;
+  
+}
+
+
+li{
+margin-left: 900px;
+
+width: 100px;
+height: 110px
+}
+div{
+
+	margin-top: -400px
+}
+h1{
+color: red
+
+
+
+}
